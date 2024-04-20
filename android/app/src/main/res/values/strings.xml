@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">defi</string>
+    <string name="title_activity_main">defi</string>
+    <string name="package_name">com.defi.app</string>
+    <string name="custom_url_scheme">com.defi.app</string>
+</resources>

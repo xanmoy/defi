@@ -1,0 +1,189 @@
+.body {
+    background: linear-gradient(120deg, #120a44, #463e72);
+    padding: 4rem;
+    border: 0px none;
+  }
+  .pricing-card {
+    background-color: rgba(229, 227, 241, 0.3);
+    /* Changed to rgba color with 30% opacity */
+    border-radius: 2rem;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: inherit;
+    height: 40vh;
+    padding: 3rem;
+    border: 0px none;
+    
+  }
+  
+  
+  .pricing-card:hover {
+    background-color: #823b8f; 
+    transition: 1s;
+    transform: scale(1.05);
+    z-index: 2;
+    
+  
+  }
+  
+  .pricing-card-title {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 0.5rem;
+  }
+  
+  .pricing-card-description {
+    color: #ffffff;
+  
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    margin-top: 0;
+  }
+  
+  .pricing-card-price {
+    color: #ffffff;
+    font-size: 1rem;
+    margin-bottom: 0;
+  }
+
+  
+  
+  .buttons-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    background: linear-gradient(120deg, #120a44, #463e72);
+
+  }
+  
+  .square-button {
+    width: 5rem;
+    height: 5rem;
+    border: none;
+    background-color: rgba(229, 227, 241, 0.3);/* Change color as needed */
+    color: #fff; /* Change text color as needed */
+    border-radius: 1rem; /* Adjust border-radius for rounded corners if needed */
+    cursor: pointer;
+  }
+  
+  .button-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .button-text {
+    margin-top: 0.5rem; /* Adjust margin as needed to align text properly */
+  }
+  .square-button:hover {
+    background-color: #823b8f; /* Change color on hover */
+  }
+  .button-item img{
+    height:.5rem;
+    width:.5rem;
+  }
+
+
+  
+  .container{
+    background: linear-gradient(120deg, #120a44, #463e72);
+    padding: 4rem;
+    border: 0px none;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+      
+    }
+    .assets{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin-bottom: 2rem;
+  
+    }
+    .ps1{
+      display: flex;
+      justify-content: center;
+      position: left;
+      font-size: 2rem;
+      font-weight: 500;
+  
+    }
+    .ps2{
+      display: flex;
+      font-size: 2rem;
+      font-weight: 500;
+    }
+    .products{
+      display:flex;
+      flex-direction: row;
+      width: 100%;
+      }
+    .pro{
+    
+      background-color: rgba(229, 227, 241, 0.3);
+      border-radius: 1rem;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      display:flex;
+      flex-direction: row;
+      height:2rem;
+      padding:1rem;
+      gap:2rem;
+      justify-content: space-between;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      width:97.7%
+      
+    }
+    .icon{
+      display: flex;
+      padding-left: 10rem;
+    }
+    .p{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .pnames{
+      font: 100;
+      font-size: .7rem;
+    }
+    .pname{
+      font-weight: 500;
+      font-size: 1.1rem;
+    }
+    .price{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .pr2 {
+      font: 100;
+      font-size: 1rem;
+      padding-right: 10rem;
+    
+    
+    }
+    .pr1{
+      font-size: 1.2rem;
+    }
+    .pp{
+      display: flex;
+      flex-direction: row;
+      gap:40rem;
+    }
+    .pr{
+      display: flex;
+      flex-direction: column;
+      width: inherit;
+    }
+    
+    .pro:hover{
+      background-color: #c19fc7; 
+      transition: 1s ;
+      transform: scale(1.02);
+      z-index: 2;
+    }
