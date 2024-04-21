@@ -1,0 +1,42 @@
+.about-us-container {
+    width: 80%;
+    margin: 2rem auto;
+    padding: 40px 20px;
+    color: white;
+
+    
+  }
+
+  .photosec
+  {
+    margin-left: 3rem;
+  }
+
+  .panel1{
+    display: flex;
+    margin-bottom: 3rem;
+  }
+  
+  .section {
+    margin-bottom: 40px;
+   
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 800;
+    color: rgb(211, 210, 210);
+  }
+  
+  p {
+    font-size: 23px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    
+  }
+  
+  .content
+  {
+    margin-left: 3rem;
+  }
