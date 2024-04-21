@@ -24,13 +24,13 @@ The Lottery contract allows participants to join the lottery by sending 1 Ether 
    ```bash
    gh repo clone jishnu2021/DeFiPolygon
 
-2.# Compile the Lottery.sol file using your preferred Solidity compiler
-3.# Deploy the compiled contract to your preferred blockchain network
-4.# Deploy the compiled contract to your preferred blockchain network
-5.# Use tools like Remix IDE or Truffle to interact with the deployed contract
+2. Compile the Lottery.sol file using your preferred Solidity compiler
+3. Deploy the compiled contract to your preferred blockchain network
+4. Deploy the compiled contract to your preferred blockchain network
+5. Use tools like Remix IDE or Truffle to interact with the deployed contract
 
 
-#License
+License
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
 
