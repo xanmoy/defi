@@ -1,8 +1,8 @@
-# Decentralized Exchange (DEX) Smart Contract
+# Decentralized Finance
 
 ## Description
 
-This repository contains the source code for a decentralized exchange (DEX) smart contract implemented in Solidity. The DEX allows users to deposit, withdraw, and swap ERC20 tokens in a trustless manner directly on the Ethereum blockchain.
+This repository contains the source code for a decentralized finance smart contract implemented in Solidity. The Defi allows users to deposit, withdraw, and swap ERC20 tokens in a trustless manner directly on the Ethereum blockchain.
 
 ## Features
 
